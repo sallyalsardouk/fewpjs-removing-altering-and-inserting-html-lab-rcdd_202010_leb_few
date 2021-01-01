@@ -1,3 +1,4 @@
 // Write your code here!
 
-document.getElement
+document.getElementById('main').remove();
+let newHeader=
